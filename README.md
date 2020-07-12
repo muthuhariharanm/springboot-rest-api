@@ -8,10 +8,10 @@ It is a simple api that supports GET, POST, DELETE requests to maintaing rating 
 - /rating/{email} return the rating of that particular email
 
 ### POST
-- /rating Adds new email-rating entry into database tabe
+- /rating adds new email-rating entry into database table
 
 ### DELETE
-- /rating/{email} Deletes entry of particular email from table
+- /rating/{email} deletes entry of particular email from table
 
 ## To try this, you can to any of the following
 
